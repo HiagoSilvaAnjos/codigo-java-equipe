@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/br/equipe/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/br/equipe/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br/equipe/Conversores/Conversores.iml" filepath="$PROJECT_DIR$/br/equipe/Conversores/Conversores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br/equipe/Polinomio/Polinomio.iml" filepath="$PROJECT_DIR$/br/equipe/Polinomio/Polinomio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br/equipe/ValidadorCPF/ValidadorCPF.iml" filepath="$PROJECT_DIR$/br/equipe/ValidadorCPF/ValidadorCPF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br/br.iml" filepath="$PROJECT_DIR$/br/br.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br/equipe/equipe.iml" filepath="$PROJECT_DIR$/br/equipe/equipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_equipe.iml" filepath="$PROJECT_DIR$/.idea/java_equipe.iml" />
+    </modules>
+  </component>
+</project>
